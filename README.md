@@ -1,1 +1,3 @@
+![STM32](stm32-nucleo-bo.jpg)
+
 Getting started with STM32...
